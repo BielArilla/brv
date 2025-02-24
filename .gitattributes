@@ -1,3 +1,4 @@
 bind/Deadlock[[:space:]]red[[:space:]]garden[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
 bind/Deadlock[[:space:]]red[[:space:]]hooka.mp4 filter=lfs diff=lfs merge=lfs -text
 bind/Deadlock[[:space:]]red[[:space:]]hooka[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+bind/Deadlock[[:space:]]red[[:space:]]lamps[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
